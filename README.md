@@ -40,4 +40,4 @@ _Task Matrix_
 ##Kevin John A. Rivera
 
 #SCHEMA Diagram 
-<img src="erd.png" />
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/erd.PNG" />
