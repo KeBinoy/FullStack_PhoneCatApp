@@ -88,7 +88,7 @@ http://localhost:3000
 #Read Module
 :+1: In this module you can read or view the details of the Phone /  you can also used the search and filter function in the list view.
 <img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/read.PNG" />
-:+1: In this module you can read or view the details of the Phone /  you can also used the search and filter function in the list view.
+
 
 #Update Module
 :+1: In this module you can update the Phone detail if there is changes.
