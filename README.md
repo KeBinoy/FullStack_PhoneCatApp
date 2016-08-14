@@ -39,5 +39,62 @@ _Task Matrix_
 ##Submited Final Project
 ##Kevin John A. Rivera
 
+## Prerequisites
+
+### Git
+
+- A good place to learn about setting up git is [here][git-setup].
+- You can find documentation and download git [here][git-home].
+
+### Node.js and Tools
+
+- Get [Node.js][node-download].
+- Install the tool dependencies: `npm install`
+
+### XAMPP / WAMP 
+>(if you decide to use NoSQL Database such as CouchDB, Cassandra, MonggoDB, etc. that is still accepted)
+
+- Used for the databas & for the Server Side
+
+### Download / Clone this repository
+``` 
+$ git clone https://github.com/KeBinoy/FullStack_PhoneCatApp.git
+```
+
+:+1: Change your current directory to ```AngularJSPhonecat```.
+```
+$ cd AngularJSPhonecat
+```
+:+1: Create a Database ```phonecat``` in the XAMPP / WAMP /.
+
+:+1: Import the database located at the  ```FullStack_PhoneCatApp/Database```.
+
+:+1: Go back to the TERMINAL and Run the webserver
+```
+$ node mysqlPhonecat.js
+```
+:+1: This will create a local webserver that is listening to port 3000 on your local machine. You can now browse to the application at:
+```
+http://localhost:3000
+```
 #SCHEMA Diagram 
 <img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/erd.PNG" />
+
+#Create Module
+:+1: In this module you can create new phone record and Kindly Fill in all the fields because it is required for the phone details.
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/create.PNG" />
+
+
+#Read Module
+:+1: In this module you can read or view the details of the Phone /  you can also used the search and filter function in the list view.
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/read.PNG" />
+:+1: In this module you can read or view the details of the Phone /  you can also used the search and filter function in the list view.
+
+#Update Module
+:+1: In this module you can update the Phone detail if there is changes.
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/update.PNG" />
+
+
+#Delete Module
+:+1: In this module you can delete the phone if you click the DELETE Button.
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/delete.PNG" />
