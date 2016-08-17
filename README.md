@@ -82,17 +82,17 @@ http://localhost:3000
 
 #Create Module
 :+1: In this module you can create new phone record and Kindly Fill in all the fields because it is required for the phone details.
-<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/create.PNG" />
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/create.png" />
 
 
 #Read Module
 :+1: In this module you can read or view the details of the Phone /  you can also used the search and filter function in the list view.
-<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/read.PNG" />
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/read.png" />
 
 
 #Update Module
 :+1: In this module you can update the Phone detail if there is changes.
-<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/update.PNG" />
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/update.png" />
 
 
 #Delete Module
