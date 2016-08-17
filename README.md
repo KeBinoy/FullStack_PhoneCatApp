@@ -97,4 +97,4 @@ http://localhost:3000
 
 #Delete Module
 :+1: In this module you can delete the phone if you click the DELETE Button.
-<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/delete.PNG" />
+<img src="https://github.com/KeBinoy/FullStack_PhoneCatApp/blob/master/delete.png" />
